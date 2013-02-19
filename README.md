@@ -1,4 +1,4 @@
-Cakephp-helper-to-display-number-to-words
+Cakephp-helper-to-convert-number-to-words
 =================================================
 
 In my last application, i was in need to show numbers in words. So while i was roaming arround in web got a php method 
